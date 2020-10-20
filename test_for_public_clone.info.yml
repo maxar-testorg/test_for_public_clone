@@ -1,0 +1,10 @@
+name: test_for_public_clone
+description: TBD
+source: https://gitub.com/maxar-testorg/test_for_public_clone
+team: Developer Services
+data_classification:
+  - company_proprietary
+
+poc:
+  - name: Developer Services
+    email: DL-IT-Developer-Services@digitalglobe.com
